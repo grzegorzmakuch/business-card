@@ -70,3 +70,8 @@ body {
     color: #E20613;
     text-decoration: none;
 }
+
+.form__item {
+    display: block;
+    width: 100%;
+}
